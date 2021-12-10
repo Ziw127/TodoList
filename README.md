@@ -26,6 +26,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/a/Z7Pbc4k' title='TODOLIST-APP' width='' alt='Video Walkthrough' />
+https://imgur.com/a/Z7Pbc4k
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
